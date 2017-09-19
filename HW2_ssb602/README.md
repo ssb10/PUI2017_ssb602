@@ -3,6 +3,7 @@ Creating Alias
 I performed following steps to set up environment variable
 
 1. Created a folder named PUI2017 on my CUSP Compute
+![Creating Folder on Compute](/Users/student/Desktop/Creating_folder.png)
 
 2. Edited the bash_profile
   Added the following lines
