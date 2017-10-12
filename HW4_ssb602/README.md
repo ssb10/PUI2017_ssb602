@@ -17,4 +17,4 @@ regression  | Study     |                | Interest |               |   Ranking,
 Part 3: Completed with Ilha Youn.
 
 Part 4: Completed with Ilha Youn. First part completed on my own.
-Ilha helped me getting the lattitude and longitude for Manhattan and Brooklyn
+Ilha helped me getting the lattitude and longitude for Manhattan and Brooklyn.
