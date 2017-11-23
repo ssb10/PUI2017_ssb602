@@ -1,4 +1,4 @@
-![Alt text](ssb602.png)
+![restaurant_inspections_graph](https://github.com/ssb10/PUI2017_ssb602/blob/master/HW8_ssb602/restaurant_inspections_graph.png)
 
 **CLARITY**
 
